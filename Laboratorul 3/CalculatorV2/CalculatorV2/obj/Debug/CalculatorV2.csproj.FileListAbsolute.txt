@@ -1,9 +1,0 @@
-E:\UTM\Anul[II]s[IV]\MIDPS\CalculatorV2\CalculatorV2\bin\Debug\CalculatorV2.exe.config
-E:\UTM\Anul[II]s[IV]\MIDPS\CalculatorV2\CalculatorV2\bin\Debug\CalculatorV2.exe
-E:\UTM\Anul[II]s[IV]\MIDPS\CalculatorV2\CalculatorV2\bin\Debug\CalculatorV2.pdb
-E:\UTM\Anul[II]s[IV]\MIDPS\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.Form1.resources
-E:\UTM\Anul[II]s[IV]\MIDPS\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.Properties.Resources.resources
-E:\UTM\Anul[II]s[IV]\MIDPS\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.csproj.GenerateResource.Cache
-E:\UTM\Anul[II]s[IV]\MIDPS\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.exe
-E:\UTM\Anul[II]s[IV]\MIDPS\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.pdb
-E:\UTM\Anul[II]s[IV]\MIDPS\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.csprojResolveAssemblyReference.cache
